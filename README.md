@@ -48,7 +48,7 @@ CPU Utilization Graph Updates in real-time to show workload distribution.
 Chart.js (for rendering graphs)
 
 # 🚀 Installation
-Clone the Repository sh Copy Edit git clone https://github.com/your-username/MultiThreadingVisualizer.git cd MultiThreadingVisualizer Install Dependencies This project uses Chart.js for visualizations. You can include it via a CDN or install it locally using npm.
+Clone the Repository sh Copy Edit git clone https://github.com/PunitNiranjan/alpha4-cb157.git cd MultiThreadingVisualizer Install Dependencies This project uses Chart.js for visualizations. You can include it via a CDN or install it locally using npm.
 
 Option 1: Use CDN (already included in index.html) ✅ No additional setup required.
 
